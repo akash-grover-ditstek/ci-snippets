@@ -394,5 +394,5 @@
         $("[name=price_square_foot]").prev().addClass('active');
     }
 </script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBNuq_P-RYH4b6sS_8suJRt-1glUudOIa0&libraries=drawing,geometry,places&callback=initCompsAutocompleteSearch"
+<script src="https://maps.googleapis.com/maps/api/js?key=KEY&libraries=drawing,geometry,places&callback=initCompsAutocompleteSearch"
         async defer></script>
